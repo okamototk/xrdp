@@ -1,0 +1,2 @@
+shlibs:Depends=libc6 (>= 2.15), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0), libx11-6, libxfixes3, libxrandr2, xrdp
+misc:Depends=
